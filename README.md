@@ -12,7 +12,7 @@ A long way to masterize...
 
 - 🌱 I’m currently learning **JS Famous Libraries**
 
-- 👨‍💻 All of my projects are available at [alexandrebobis.github.io](alexandrebobis.github.io)
+- 👨‍💻 All of my projects are available at [alexandrebobis.github.io](https://alexandrebobis.github.io)
 
 - 📫 How to reach me **alexandrebobis91@gmail.com**
 
