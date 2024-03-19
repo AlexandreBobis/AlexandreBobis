@@ -19,7 +19,7 @@ A long way to masterize...
 
 - 🌱 I’m learning **JS and its Famous Libraries**
 
-- 👨‍💻 My projects are available at [alexandrebobis.github.io](https://alexandrebobis.github.io)
+- 👨‍💻 My projects are available at [alexandrebobis.github.io](https://alexandrebobis.github.io/contact/home.html)
 
 - 📫 How to reach me ? *alexandrebobis91@gmail.com*
 
@@ -32,54 +32,24 @@ A long way to masterize...
 <h3 align="center">Connect with me:</h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/alexandre-bobis/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandre bobis" height="30" width="40" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Alexandre BOBIS" height="30" width="40" />
     </a>
     <a href="https://codepen.io/AlexShadow3" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alexshadow3" height="30" width="40" />
+    </a>
+    <a href="https://github.com/AlexandreBobis" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Alexandre BOBIS" height="30" width="40" />
     </a>
 </p>
 
 ![-----](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png)
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-    <a target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a target="_blank" rel="noreferrer">
-        <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="github" width="50" height="50"/>
-    </a>
-    <a target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
-    <a target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    </a>
-    <a target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" height="40"/>
-    </a>
-    <a target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-    </a>
-    <a target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/>
-    </a>
-</p>
+<div align="center"> 
+
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,visualstudio,html,css,js,nodejs,mysql,php,postman,react,bootstrap,raspberrypi)](https://skillicons.dev)
+
+</div>
 
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexandrebobis&show_icons=true&locale=en&layout=compact" alt="alexandrebobis" />
@@ -118,7 +88,7 @@ You easily understand that you are alone, like in this video game you were playi
 ![-----](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h3 align="center">
-    <a href="https://alexshadow3.github.io/Card_Games/BlackJack/index.html">Card Games</a>
+    <a href="https://alexshadow3.github.io/Card_Games">Card Games</a>
 </h3>
 
 <div align="center">
