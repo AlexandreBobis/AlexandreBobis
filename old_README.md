@@ -1,6 +1,6 @@
 # Hi, I'm Alexandre 👋
 
-A passionate full-stack developer from France 
+Web Full-stack and C# .NET developer
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -10,14 +10,14 @@ A passionate full-stack developer from France
 
 A long way to masterize...
 
-- 🔭 I’m currently working on:
+- 🔭 Projects and scribbles:
   - [Scooby-Doo: MANS](https://github.com/AlexShadow3/ScoobyDooMANS)
   - Card Games:
     - [BlackJack](https://alexshadow3.github.io/Card_Games/BlackJack/index.html)
     - [Bataille](https://alexshadow3.github.io/Card_Games/Bataille/index.html)
   - [Learning Commands](https://github.com/alexshadow3/learning-commands)
 
-- 🌱 I’m learning **JS and its Famous Libraries**
+- 🌱 I’m learning **JavaScript** and its *Famous Libraries*
 
 - 👨‍💻 My projects are available at [alexandrebobis.github.io](https://alexandrebobis.github.io/contact/home.html)
 
