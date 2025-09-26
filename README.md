@@ -31,6 +31,7 @@
 
 🔗 [Voir le projet](https://github.com/AlexShadow3/YATLOT)
 
+🔗 [Essayer le jeu](https://alexshadow3.github.io/my_game/You%20are%20the%20last%20of%20them/index.html)
 ---
 
 #### 🃏 Card Games
@@ -49,7 +50,7 @@ Elle permet de gérer les produits périssables du quotidien, d’éviter le gas
 
 Ce projet scolaire est en passe de devenir une vraie solution utile et intuitive, alliant **simplicité d’utilisation** et **impact écologique**.
 
-📅 Lancement prévu : avant ou pendant **septembre 2025**
+📅 Lancement prévu : pendant **octobre 2025**
 
 ---
 
