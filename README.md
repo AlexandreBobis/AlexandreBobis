@@ -1,10 +1,9 @@
 ## 👋 Salut, je suis Alexandre
 
-🎓 Étudiant en informatique | 💻 Développeur Web Full-Stack & .NET (C#)  
-🔐 Intéressé par la cybersécurité | 🤝 Actuellement en recherche d’alternance dans ce domaine
+💻 Développeur Web Full-Stack & .NET (C#)  
 
-- 🔭 Projet actuel : [Perim'APP](https://github.com/AJA-Corp/perim_app)
-- 📫 Contact : alexandre.bobis@ecole2600.com | [LinkedIn](https://www.linkedin.com/in/alexandre-bobis/)
+- 🔭 Mon projet : [Perim'App](https://github.com/AJA-Corp/perim_app)
+- 📫 Contact : alexandre.bobis@proton.me | [LinkedIn](https://www.linkedin.com/in/alexandre-bobis/)
 
 ---
 
@@ -19,6 +18,16 @@
 ---
 
 ### 🚀 Projets
+
+#### 📦 Perim'App
+
+[Perim'App](https://github.com/AJA-Corp/perim_app) est une application mobile développée avec **.NET MAUI**.  
+Elle permet de gérer les produits périssables du quotidien, d’éviter le gaspillage alimentaire et de recevoir des rappels avant expiration.
+Ce projet est en passe de devenir une vraie solution utile et intuitive, alliant **simplicité d’utilisation** et **impact écologique**.
+
+📅 Lancement prévu : Avril 2026
+
+---
 
 #### 🎮 You Are The Last Of Them (YATLOT)
 
@@ -44,17 +53,4 @@ Des évolutions sont prévues : ajout du **Poker**, système de **jetons** et **
 
 ---
 
-#### 📦 Perim'APP
-
-[Perim'APP](https://github.com/AJA-Corp/perim_app) est une application mobile développée avec **.NET MAUI**.  
-Elle permet de gérer les produits périssables du quotidien, d’éviter le gaspillage alimentaire et de recevoir des rappels avant expiration.
-
-Ce projet scolaire est en passe de devenir une vraie solution utile et intuitive, alliant **simplicité d’utilisation** et **impact écologique**.
-
-📅 Lancement prévu : pendant **octobre 2025**
-
----
-
 ### Merci pour votre visite 🙏
-
-Si vous aimez ce que je fais, n'hésitez pas à ⭐ mes dépôts ou à me contacter pour collaborer !
