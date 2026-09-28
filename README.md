@@ -31,25 +31,21 @@ Ce projet est en passe de devenir une vraie solution utile et intuitive, alliant
 
 #### 🎮 You Are The Last Of Them (YATLOT)
 
-![Island.png](https://alexshadow3.github.io/my_game/images/island.png)
-
 > *Ocean Pacifique, 2020 — Foreover Island*  
 > Vous rêvez de votre femme et de vos enfants sur une plage… puis vous vous réveillez seul. Vous ouvrez les yeux sur une île déserte, avec une forêt silencieuse derrière vous.
 
 **You Are the Last Of Them** est un jeu narratif interactif développé en **Inky**. Vous incarnez un personnage perdu dans un monde énigmatique, à la recherche de réponses... et d’une sortie.
 
-🔗 [Voir le projet](https://github.com/AlexShadow3/YATLOT)
-
-🔗 [Essayer le jeu](https://alexshadow3.github.io/my_game/You%20are%20the%20last%20of%20them/index.html)
+🔗 [Voir le projet](https://github.com/AlexandreBobis/YATLOT)
 
 ---
 
 #### 🃏 Card Games
 
-[Card Games](https://github.com/AlexShadow3/Card_Games) est mon premier projet concret : un mini-site de **Blackjack** codé en Vanilla JS.  
-Des évolutions sont prévues : ajout du **Poker**, système de **jetons** et **authentification**.
+[Card Games](https://github.com/CodeX-Syndicate/Card_Games) est une plateforme de jeux de carte. Sont actuellement disponibles la Bataille, le BlackJack et le Poker.  
+Des évolutions sont prévues: système de **jetons** et **authentification**.
 
-🔗 [Essayer le jeu](https://alexshadow3.github.io/Card_Games/Blackjack/index.html)
+🔗 [Essayer le jeu](https://card-games-one.vercel.app/)
 
 ---
 
