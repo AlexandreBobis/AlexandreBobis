@@ -25,7 +25,7 @@
 Elle permet de gérer les produits périssables du quotidien, d’éviter le gaspillage alimentaire et de recevoir des rappels avant expiration.
 Ce projet est en passe de devenir une vraie solution utile et intuitive, alliant **simplicité d’utilisation** et **impact écologique**.
 
-📅 Lancement prévu : Avril 2026
+📅 Lancement prévu : À définir
 
 ---
 
